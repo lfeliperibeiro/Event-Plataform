@@ -1,5 +1,11 @@
+import { Event } from './pages/Event'
+
 function App() {
-  return <div></div>
+  return (
+    <div>
+      <Event />
+    </div>
+  )
 }
 
 export default App
